@@ -16,7 +16,7 @@ function increaseRankBy(n) {
   return lis
 }
 
-function deepestChild(deep) {
-  const deepen = document.getElementById('grand-node').querySelectorAll('div')
+function deepestChild() {
+  const deep = document.getElementById('grand-node').querySelectorAll('div')
 
   return deepen[deepen.length - 1]

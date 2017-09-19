@@ -23,5 +23,5 @@ function deepestChild(deep) {
     querySelectorAll('grand-node.div')[4]
   }
 
-  return deepend
+  return deepen
 }

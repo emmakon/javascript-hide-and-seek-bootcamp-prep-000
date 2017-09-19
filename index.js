@@ -19,4 +19,4 @@ function increaseRankBy(n) {
 function deepestChild() {
   const deep = document.getElementById('grand-node').querySelectorAll('div')
 
-  return deepen[deepen.length - 1]
+  return deep[deep.length - 1]

@@ -20,6 +20,8 @@ function deepestChild(deep) {
   const deepen = document.getElementById('grand-node')
 
   for (let i = 0; i < deepen.length; i++) {
-    querySelectorAll('div')[4]
+    querySelectorAll('grand-node.div')[4]
   }
-} 
+
+  return deepend
+}

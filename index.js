@@ -15,3 +15,11 @@ function increaseRankBy(n) {
 
   return lis
 }
+
+function deepestChild(deep) {
+  const deepen = document.getElementById('grand-node')
+
+  for (let i = 0; i < deepen.length; i++) {
+    querySelectorAll('div')[4]
+  }
+} 
